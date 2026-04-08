@@ -1,0 +1,2436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111000111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+  <layouts>
+    <layout name="npnxnanbsnfns10111000111" font="Lato" controllayout="npnxnanbsnfns10111000111" colorscheme="pxabnsnfns10111000111" string_table="pxabnsnfns10111000111" />
+    <layout name="pxabnsnfns10111000111" font="Lato" controllayout="pxabnsnfns10111000111" colorscheme="pxabnsnfns10111000111" string_table="pxabnsnfns10111000111" />
+    <layout name="npxnabnsnfns10111000111" font="Lato" controllayout="npxnabnsnfns10111000111" colorscheme="pxabnsnfns10111000111" string_table="pxabnsnfns10111000111" />
+    <layout name="npnxnanbnsnfns10111000111" font="Lato" controllayout="npnxnanbnsnfns10111000111" colorscheme="pxabnsnfns10111000111" string_table="pxabnsnfns10111000111" />
+    <layout name="pxabnsnfns10111000110" font="Lato" controllayout="pxabnsnfns10111000110" colorscheme="pxabnsnfns10111000111" string_table="pxabnsnfns10111000111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Building High-Performing Teams" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+          <option name="logoAltTextEnabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true" />
+          <option name="settings" value="true" />
+          <option name="fullScreenToggle" value="true" />
+          <option name="playbackSpeedControl" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+      <optiongroup name="courseOptions">
+        <options>
+          <option name="thumbnailEnabled" value="false" />
+          <option name="thumbnailAltText" value="mixed-team-playing-blocks-wood-game-office (1).jpg" />
+          <option name="thumbnailDisplayName" value="mixed-team-playing-blocks-wood-game-office (1).jpg" />
+          <option name="thumbnailUrl" value="story_content/6V4gPdA4S0n.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Lato" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
+          <option name="textShadow" value="1" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111000110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns10111000111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="94" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C7C7C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA2A2A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns10111000111">
+      <string id="acc_active">active</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="acc_definition">definition</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_volume">volume</string>
+      <string id="bio">Bio</string>
+      <string id="check_include">Check to include</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="definition">Definition</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="finish">FINISH</string>
+      <string id="more_info">More info</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="pause_tip">Pause</string>
+      <string id="play_tip">Play</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="settings_tip">Settings</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submit_tip">Submit</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_visited">visited</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="background_audio">Background audio</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="closed_captions">Captions</string>
+      <string id="comma_key">Comma</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="next">NEXT</string>
+      <string id="prev">PREV</string>
+      <string id="submit">SUBMIT</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="continue">Continue</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
+      <string id="transcript">Notes</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="period_key">Period</string>
+      <string id="question_mark_key">Question mark</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="close">Close</string>
+      <string id="acc_select_an_option">Select an option</string>
+      <string id="acc_ordinal_eighth">eighth</string>
+      <string id="acc_ordinal_fifth">fifth</string>
+      <string id="acc_ordinal_first">first</string>
+      <string id="acc_ordinal_fourth">fourth</string>
+      <string id="acc_locked">locked</string>
+      <string id="outline_container">Menu</string>
+      <string id="acc_next">next</string>
+      <string id="acc_ordinal_ninth">ninth</string>
+      <string id="acc_previous">previous</string>
+      <string id="acc_correct_choice">%answer% (correct choice)</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_search_result_status">%count% result found for %term%</string>
+      <string id="acc_search_results_status">%count% results found for %term%</string>
+      <string id="acc_ordinal_second">second</string>
+      <string id="acc_played">%time% played</string>
+      <string id="acc_ordinal_seventh">seventh</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_ordinal_sixth">sixth</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_ordinal_tenth">tenth</string>
+      <string id="acc_ordinal_third">third</string>
+      <string id="acc_visited">visited</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="search_in">Search in:</string>
+      <string id="filter">Filter</string>
+      <string id="search">Search...</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="search_results">Search Results</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
+      <string id="acc_replay">replay</string>
+      <string id="search_toggle">Search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="video_transcript_mobile_label">Transcript</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_modern_video_transcript">Transcripts</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
+      <string id="video_transcript_select_track">Select track</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="video_transcript_title">Transcript</string>
+      <string id="acc_window_options">Options</string>
+      <string id="invalid_prompt_button">OK</string>
+      <string id="invalid_prompt_message">You must complete the question before submitting.</string>
+      <string id="invalid_prompt_title">Invalid Answer</string>
+      <string id="print_prompt_button">OK</string>
+      <string id="print_prompt_title">Enter name</string>
+      <string id="print_prompt_message">Enter your name in the field below:</string>
+      <string id="timer_prompt_button">OK</string>
+      <string id="timer_prompt_title">Time Limit Exceeded</string>
+      <string id="timer_prompt_message">You have reached the time limit set for the quiz. Press 'OK' to continue.</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Open Sans">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5cLTJWoogcx" displaytext="Building High-Performing teams" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5cLTJWoogcx.6DLbCMEni4v" displaytext="Course Cover" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.5cmGdCS5iYz" displaytext="Where This Course Takes You" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.6dOkTMWO9uT" displaytext="Thought Point" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.6FGY3frO2kV" displaytext="Areas of Focus" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.659nHfbWcEx" displaytext="Why Building a High-Performing Team?" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.6Mzl5oOItJo" displaytext="The Advantages of Building a High Functioning Team" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.61iIs9K78vn" displaytext="Understanding the Basic Needs of your " expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.6H64WOjOgIH" displaytext="Understanding the Basic Needs of your " expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.5dZvXt8DT6T" displaytext="Teams Can Struggle" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.5uAE4jmpH3i" displaytext="Understanding Team Development" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.5kVssl5j3Kb" displaytext="Conflicts Happen" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.5cZxVdNmAZ5" displaytext="Managing Conflicts" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.5ZzJexqzt9V" displaytext="Dealing with an Underachieving " expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.6JVuoZwpNxs" displaytext="A Proactive Approach with" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.62RO8T8EQD2" displaytext="Maslow’s Hierarchy " expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.6aSoipUHgqj" displaytext="Emotional Intelligence (EI)" expand="false" type="slide" />
+            <slidelink slideid="_player.5cLTJWoogcx.6Yxyk9aj1jF" displaytext="Balancing Control and Freedom" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6YoIIYoDnUM" displaytext="Knowledge Check" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6YoIIYoDnUM.6L3pejPeYDC" displaytext="Let&amp;apos;s see what you have learned" expand="false" type="slide" />
+            <slidelink slideid="_player.6YoIIYoDnUM.6CRrDsgQ5gX" displaytext="Knowledge Check - 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6YoIIYoDnUM.6gQrqIwVZc4" displaytext="Knowledge Check - 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6YoIIYoDnUM.5asvqYP8Zns" displaytext="Knowledge Check - 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6YoIIYoDnUM.6TtUKL6m7MZ" displaytext="Knowledge Check - 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6YoIIYoDnUM.6T8vfRGTvmR" displaytext="Knowledge Check - 5" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5cLTJWoogcx.6DLbCMEni4v" slidebank="false" type="slide"> building high-performing                                          teams</slidetext>
+      <slidetext slideid="5cLTJWoogcx.5cmGdCS5iYz" slidebank="false" type="slide"> meet julia! join us on her journey as the new team member of a group of editors.  let’s see where this course takes you  hello my name is julia  build trust &amp; values define roles &amp; responsibilities   resolve conflicts   manage team delegation</slidetext>
+      <slidetext slideid="5cLTJWoogcx.6dOkTMWO9uT" slidebank="false" type="slide"> thought point   thought point  you are right if you are thinking about her ability to get everyone cooperating. but building a cohesive team is much more than that, which you’ll learn soon. we will introduce you to the foundational concepts of driving a high-functioning team throughout this course.     how is julia going to contribute to building a high-performing team?</slidetext>
+      <slidetext slideid="5cLTJWoogcx.6FGY3frO2kV" slidebank="false" type="slide"> course format: areas of focus  areas of focus  it is important to note that building high-performing teams is a multifaceted process that requires understanding five areas of focus. team building fundamentals core requirements for success navigating conflict: stages &amp; resolution strategies leadership empowerment strategies course assessment</slidetext>
+      <slidetext slideid="5cLTJWoogcx.659nHfbWcEx" slidebank="false" type="slide">  what is the importance of building a high-performing team?  why building a high-performing  team?  </slidetext>
+      <slidetext slideid="5cLTJWoogcx.6Mzl5oOItJo" slidebank="false" type="slide"> the advantages of building a high functioning team    high-performing teams can be defined as a group of people with specific roles and complementary skills, committed to a common purpose.  team members are able to interchange their roles, have robust methods of resolving conflicts, and learn from each other.    cohesive teams build strong relationships and consistently show a high level of collaboration, and innovation. they are also highly focused on their goals and achieve superior results.    being part of such a team boosts job satisfaction, as everyone feels truly valued, connected, and empowered, working efficiently with minimal conflicts.   </slidetext>
+      <slidetext slideid="5cLTJWoogcx.61iIs9K78vn" slidebank="false" type="slide">contribution   everyone seeks a sense of impact the drive to reach one’s full potential  (maslow’s self-actualization)      we want to give beyond ourselves growth   some resist growth  continuous improvement of skills      to push boundaries and excel love &amp; connection   the need for support by a community  belonging drives performance      people want to be valued by colleagues significance   we seek meaning &amp; value  people want to make a difference in their career   variety   some uncertainty is beneficial lead projects, not tasks     the need for change &amp; challenge certainty    job security consistent salary     company stability    comfort  understanding the basic needs of your  team   abraham maslow’s hierarchy of needs   tony robins       1 1 1     2 2 2     3 3 3     4 4 4     5 5 5     6 6 6  tony robins select each number to learn more. </slidetext>
+      <slidetext slideid="5cLTJWoogcx.6H64WOjOgIH" slidebank="false" type="slide">contribution   everyone seeks a sense of impact the drive to reach one’s full potential  (maslow’s self-actualization)      we want to give beyond ourselves growth some resist growth  continuous development of skills  to push boundaries and excel       love &amp; connection   the need for support by a community  belonging drives performance      people want to be valued by colleagues significance   members seek meaning &amp; value  they want to make a difference in  their career   variety the need for change &amp; challenge   some uncertainty is beneficial lead projects, not tasks     certainty    job security   consistent salary   company stability     1 1 1     2 2 2     3 3 3     4 4 4     5 5 5     6 6 6</slidetext>
+      <slidetext slideid="5cLTJWoogcx.5dZvXt8DT6T" slidebank="false" type="slide">even the most talented and well-intentioned teams can encounter challenges that hinder their performance.  understanding these struggles is the first step in overcoming them.  teams can struggle  click the next button to learn about the five stages teams go through.</slidetext>
+      <slidetext slideid="5cLTJWoogcx.5uAE4jmpH3i" slidebank="false" type="slide">  select the play icon to watch a video introducing the stages team go through.   understanding team development </slidetext>
+      <slidetext slideid="5cLTJWoogcx.5kVssl5j3Kb" slidebank="false" type="slide"> the final stage occurs when the team disbands after completing its objectives. members may experience feelings of accomplishment or sadness about leaving the group.   this is where the team reaches peak efficiency, confidently tackling challenges, meeting goals, and delivering results. everyone knows their role, and they work seamlessly as a unit. members collaborate seamlessly, focus on achieving their objectives, and resolve conflicts quickly and effectively. trust and interdependence are high.  at this stage, the group begins to develop norms, roles, and mutual respect. people recognize and appreciate each other’s strengths.  members align on shared goals and processes, fostering collaboration and cohesion.  this is the stage where reality sets in. challenges emerge, personalities clash, and tensions can rise. it’s a critical stage where growing pains are normal—but it’s also where the foundation for collaboration begins. team members begin to express their opinions, and differences in personalities, work styles, and priorities become apparent.   this is the honeymoon phase. the team is just getting started—everyone’s polite, enthusiastic, and eager to dive into the project. this is the initial stage where team members meet, establish goals, and begin to understand their roles.    conflicts happen     people hold differing views about what should be done and by whom. it isn’t a matter of whether conflicts will happen, but when.     conflicts aren’t always bad. they can sometimes bring innovative solutions to challenging problems.   the key is managing it constructively, to everyone’s benefit.</slidetext>
+      <slidetext slideid="5cLTJWoogcx.5cZxVdNmAZ5" slidebank="false" type="slide"> when you combine your team’s diverse perspectives, you unlock the collective potential. by leveraging critical thinking, this approach allows members to and go beyond what any individual could achieve alone.  collaborative problem solving requires an open mind, and the ability to analyze objectively.   managing conflicts   equally important is the ability to stay grounded in the present.  by concentration on the current challenges, we open ourselves up to innovative solutions and create the foundation for a more productive workflow.  managing conflicts   when resolving conflicts, it is important to focus on the problem, not the people.  by zeroing in on the problem rather than getting caught up in personalities, you can foster an objective dialogue that generates effective solutions. this approach ensures that the focus remains on addressing challenges rather than assigning blame.  managing conflicts   managing conflicts    focus on the issue  focus on the present and the future  search for solutions together  select each icon to learn more about each.</slidetext>
+      <slidetext slideid="5cLTJWoogcx.5ZzJexqzt9V" slidebank="false" type="slide">  dealing with an underachieving  team   is your team individually capable of achieving great things but is yet to unlock their full potential as a group?   managing a team that is underperforming can be both frustrating and challenging.  it’s essential that you notice any underperformance and take the necessary initiatives to address it. </slidetext>
+      <slidetext slideid="5cLTJWoogcx.6JVuoZwpNxs" slidebank="false" type="slide">  provide coaching through regular, constructive feedback and personalized support. coaching helps team members identify strengths, overcome challenges, and hold themselves accountable to shared goals. remember that coaching is woven into everyday interactions. whether through quick check-ins, mentoring relationships, or collaborative problem-solving, ongoing coaching turns challenges into learning opportunities.   help the team develop a sense of ownership over the projects and  responsibilities.to foster this mindset, involve everyone in setting common objectives and strategic decision-making, ensuring that each person’s ideas and efforts are valued.  when your team truly owns their work together, they become more engaged, resilient, and innovative—driving not only better results but also a stronger, more cohesive culture.  develop a social calendar to foster proactive team building. many organizations may skip this step until morale is low.  by planning fun competitive activities or outing every month or two you create moments for friendly shared memories that not only strengthen team bonds but also help reduce staff turnover. do not reacting to low morale, be proactive and let regular social events become a cornerstone of your team’s success.  establish a robust onboarding process to seamlessly integrate new members into your team. many organizations overlook this step, leaving newcomers struggling to connect with the existing team dynamic.  when a new member joins, ensure they are promptly introduced to the entire team and clearly briefed on their responsibilities and role.   start by establishing common goals and values. gather your team to collectively develop clear goals and measurable objectives that each member of your team can contribute to.  you should also define a set of core values that will guide daily behavior, such as “we keep our promises”, or “we continually improve our processes.”   a proactive approach with teambuilding   select each icon to learn more. common goals &amp; values common goals &amp; values common goals &amp; values onboarding process  onboarding process  onboarding process  social calendar social calendar social calendar collective ownership collective ownership collective ownership coaching coaching coaching</slidetext>
+      <slidetext slideid="5cLTJWoogcx.62RO8T8EQD2" slidebank="false" type="slide"> maslow’s hierarchy     maslow, a. h. (1970). motivation and personality (2nd ed.). new york: harper &amp; row   maslow’s hierarchy of human needs outlines the stages of human motivation from survival to self-actualization. survival safety belonging importance self-actualization disengaged not engaged almost engaged engaged highly engaged</slidetext>
+      <slidetext slideid="5cLTJWoogcx.6aSoipUHgqj" slidebank="false" type="slide">engage emotionally engage emotionally analyse your emotions and  take measured action analyse your emotions and  take measured action  build empathy. listen actively.  build empathy. listen actively.  build empathy. listen actively.  think before you act. build trust  think before you act. build trust  think before you act. build trust   self-regulation  self-regulation  self-regulation  self-regulation  empathy  empathy  empathy  empathy  self-awareness  self-awareness  self-awareness  self-awareness  social-awareness  social-awareness  social-awareness  social-awareness select each area to learn more.  emotional intelligence (ei)   emotional intelligence (ei) refers to the ability to recognize, understand, manage, and influence emotions—both your own and those of others.  emotional intelligence (ei) is necessary to:   enhance leadership and team collaboration  promote interpersonal understanding   encourage personal growth and self-confidence emotional intelligence (ei) requires you to:   select the view characteristics button to see the attributes of emotionally intelligent individuals. increase self-awareness  consider the feelings of others  act accordingly  view characteristics view characteristics view characteristics view characteristics view characteristics view characteristics</slidetext>
+      <slidetext slideid="5cLTJWoogcx.6Yxyk9aj1jF" slidebank="false" type="slide">the manager provides the context and necessary parameters, allowing the team to make decisions within those limits. this approach maximizes team autonomy and can lead to innovative solutions, as long as there is trust and accountability in place. the manager suggests a tentative decision and invites feedback to refine it further.  this collaborative approach allows the team to influence the final outcome, fostering a sense of ownership while ensuring that the decision remains well-informed. the manager presents a set of options, inviting the team to discuss and weigh in while you retain the final authority.  this method helps align the team’s perspectives with the leader’s vision. the manager decides and explains the reasons for the decision and the benefits of doing so.  this balance can improve decision quality while still maintaining efficiency. the manager decides and tells the team what to do. the team has no active part in the decision-making process. this approach works well when quick, decisive action is needed, but it can limit creativity and team engagement.  balancing team control and freedom      autocratic leadership consultative leadership collaborative leadership delegative leadership  fully empowered team (robert tannenbaum and warren schmidt     </slidetext>
+      <slidetext slideid="6YoIIYoDnUM.6L3pejPeYDC" slidebank="false" type="slide">                let’s see what you’ve learned.   let’s see what you’ve learned. </slidetext>
+      <slidetext slideid="6YoIIYoDnUM.5asvqYP8Zns" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue  true true true true true true false false false false false false   knowledge check - 1  tom prefers not to work on the detailed tasks that are assigned, so he convinces others to do his work. everyone is fed up but the manager tells them to ignore tom. this is a good example of emotional intelligence. select true or false, and then select submit.</slidetext>
+      <slidetext slideid="6YoIIYoDnUM.6CRrDsgQ5gX" slidebank="false" type="slide">correct that's right!  you selected the correct response. continue continue continue continue continue continue incorrect you did not select the correct response. continue continue continue continue continue continue   a manager notices that employees seem anxious and unmotivated after recent company restructuring. some team members have expressed concern about job security and changes in leadership. what would be the best approach for the manager to address this issue?  select the best course of action, then select submit.   knowledge check - 2  tell employees to focus on their tasks and avoid discussing company changes. tell employees to focus on their tasks and avoid discussing company changes. tell employees to focus on their tasks and avoid discussing company changes. tell employees to focus on their tasks and avoid discussing company changes. tell employees to focus on their tasks and avoid discussing company changes. tell employees to focus on their tasks and avoid discussing company changes. provide regular updates on the company’s direction and job stability to reduce uncertainty. provide regular updates on the company’s direction and job stability to reduce uncertainty. provide regular updates on the company’s direction and job stability to reduce uncertainty. provide regular updates on the company’s direction and job stability to reduce uncertainty. provide regular updates on the company’s direction and job stability to reduce uncertainty. provide regular updates on the company’s direction and job stability to reduce uncertainty. increase workload to distract employees from their concerns. increase workload to distract employees from their concerns. increase workload to distract employees from their concerns. increase workload to distract employees from their concerns. increase workload to distract employees from their concerns. increase workload to distract employees from their concerns. avoid discussing the restructuring until it is finalized to prevent rumors. avoid discussing the restructuring until it is finalized to prevent rumors. avoid discussing the restructuring until it is finalized to prevent rumors. avoid discussing the restructuring until it is finalized to prevent rumors. avoid discussing the restructuring until it is finalized to prevent rumors. avoid discussing the restructuring until it is finalized to prevent rumors.</slidetext>
+      <slidetext slideid="6YoIIYoDnUM.6gQrqIwVZc4" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue   knowledge check - 3  can you match each team formation stage with the appropriate management strategy?  drag the correct stage label next to the management action that best fits that stage. once you have finished, select submit. promoting open communication &amp; delegating tasks to build team capability. prioritizing individual development &amp; addresses factors that influence team success. establishing processes &amp; structure, smoothing conflicts &amp; building strong relationships. allocate time to deal with unresolved team issues. clarifies the team’s purpose, sets objectives, defines external relationships. forming storming performing    </slidetext>
+      <slidetext slideid="6YoIIYoDnUM.6TtUKL6m7MZ" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue   knowledge check - 4   which of the following are recommendations for managing conflicts? select all that apply, then select submit. focus on issues focus on issues focus on issues focus on issues focus on issues focus on issues focus on the past and present focus on the past and present focus on the past and present focus on the past and present focus on the past and present focus on the past and present focus on time focus on time focus on time focus on time focus on time focus on time search for alternatives together search for alternatives together search for alternatives together search for alternatives together search for alternatives together search for alternatives together focus on the present and future focus on the present and future focus on the present and future focus on the present and future focus on the present and future focus on the present and future search for options independently search for options independently search for options independently search for options independently search for options independently search for options independently</slidetext>
+      <slidetext slideid="6YoIIYoDnUM.6T8vfRGTvmR" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue drag the correct response card to each scenario. think carefully—multiple cards may feel appropriate, but only one is the best fit. a high-performing team member has recently become unusually quiet in meetings. they’ve stopped contributing ideas and are avoiding follow-ups. you sense something is wrong, but they haven’t spoken up. a team member went above and beyond during the project’s final week—staying late, solving key technical issues, and mentoring junior staff behind the scenes. their efforts weren’t widely visible to the rest of the team.  a disagreement between two key members during a sprint review turned into personal tension. since then, others seem to be walking on eggshells. collaboration has slowed.    knowledge check - 5  recognize recognize  incentivize  teambuild  listen  </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5cLTJWoogcx.5cmGdCS5iYz" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Let’s begin with a new team member who is coming onboard, to help a team of marketing specialists to manage their projects. Join us on her journey as she expertly uses her team building skills to: build trust and foster shared values, establish "&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="transparent roles &amp;amp; responsibilities, "&gt;
+        &lt;Style FontSize="14" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="resolve conflicts efficiently through strategic solutions, and, balance team delegation with creative freedom."&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.6dOkTMWO9uT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now that you have gone through the scenario about Julia, think about how she is an asset to the team. You are right if you are thinking about her ability to get everyone cooperating. But building a cohesive team is much more than that, which you’ll learn soon. We will introduce you to the foundational concepts of driving a high-functioning team throughout this course, so that you are ready to inspire, empower, and lead teams towards sustainable success."&gt;
+        &lt;Style FontSize="16" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.6FGY3frO2kV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Let’s take a look at the course format. It is important to note that building high-performing teams is a multifaceted process, and requires understanding five areas of focus, including team building fundamentals, team core requirements for success, conflict stages and resolution strategies, successful leadership, and empowerment strategies. By completing this course, you will be equipped with the knowledge and skills needed to build, lead, and elevate cohesive teams that drive success and innovation."&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.659nHfbWcEx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Let’s begin by exploring the importance of building high-performing teams. As organizations evolve, teams are becoming larger and more complex, driven by advancements in technology and the Internet that connect people across different locations. While this connectivity offers many advantages, it also introduces challenges—particularly in communication. While convenient, virtual interactions don’t always match the effectiveness of face-to-face discussions. The nuances of collaboration can fade, and knowledge-sharing may become less organic. In larger teams, members are often less inclined to freely exchange insights, learn from one another, or adapt to shifting workloads when unexpected demands arise. Without a strong framework for collaboration, individuals may work in silos, limiting efficiency and innovation. In contrast, smaller teams tend to function with greater agility. They communicate more effectively, readily support each other, and share resources to ensure tasks are completed on time. Their ability to adjust and redistribute work fosters a more dynamic and responsive environment, making them better equipped to handle challenges and meet deadlines with confidence."&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.6Mzl5oOItJo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="High-performing teams can be defined as a group of people with specific roles and complementary skills, and committed to a common purpose.  Team members are able to interchange their roles, have robust methods of resolving conflicts, and learn from each other. Cohesive teams build strong relationships and consistently show a high level of collaboration, and innovation. They are also highly focused on their goals and tend to achieve superior results. Moreover, being part of such a team boosts job satisfaction, as everyone feels truly valued, connected, and empowered, working efficiently with minimal conflicts.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontSize="18" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontSize="18" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontSize="18" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontSize="18" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.61iIs9K78vn" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="You’re likely familiar with Abraham Maslow’s Hierarchy of Needs, which remains highly relevant today in understanding human motivation. However, since Maslow’s time, others have expanded on these ideas to reflect the evolving nature of human desires. One such figure is Tony Robbins, whose insights have influenced millions. Robbins identifies six fundamental human needs, believing that each person is driven—consciously or unconsciously—by the pursuit of fulfilling these needs. Select each number to learn how these needs can enhance team performance and engagement.&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The first need is having certainty and comfort – People seek stability and predictability. While absolute certainty is unattainable, employees want reassurance about job security, timely paychecks, and the company’s future. Providing clarity and reliability fosters a sense of psychological and physical security. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The second need is variety and challenge – Paradoxically, while people crave certainty, they also need variety to stay engaged. Monotony leads to stagnation, whereas new challenges and diverse tasks keep work stimulating. Encouraging employees to take on projects rather than routine tasks introduces healthy unpredictability within a stable environment.&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The third need is significance – Everyone wants to feel important and know their work matters. Employees who believe their contributions are overlooked or meaningless will struggle with motivation. Regularly recognizing and reinforcing the impact of their work helps them feel valued and driven. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The fourth need that people have is love and connection – A sense of belonging is fundamental. People want to feel part of a supportive community where they are cared for and respected. Building a strong team culture and fostering collaboration strengthens workplace relationships, boosting morale and productivity. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Next is growth – Whether they realize it or not, everyone desires growth. Some employees may resist change, but this often stems from fear rather than a lack of ambition. Helping individuals identify and develop their strengths fosters professional and personal development, keeping them engaged and motivated. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The final need is contribution – The desire to make a meaningful impact is deeply ingrained in all of us. People want to know that their work extends beyond themselves and positively influences others. Aligning roles with a greater purpose helps employees feel that their efforts truly matter. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="By understanding and addressing these core needs, leaders can create an environment where employees feel secure, valued, challenged, connected, and inspired to grow. The more effectively you support these needs, the more motivated and committed your team will become."&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.6H64WOjOgIH" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="You’re likely familiar with Abraham Maslow’s Hierarchy of Needs, which remains highly relevant today in understanding human motivation. However, since Maslow’s time, others have expanded on these ideas to reflect the evolving nature of human desires. One such figure is Tony Robbins, whose insights have influenced millions. Robbins identifies six fundamental human needs, believing that each person is driven—consciously or unconsciously—by the pursuit of fulfilling these needs. Select each number to learn how these needs can enhance team performance and engagement.&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The first need is having certainty and comfort – People seek stability and predictability. While absolute certainty is unattainable, employees want reassurance about job security, timely paychecks, and the company’s future. Providing clarity and reliability fosters a sense of psychological and physical security. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The second need is variety and challenge – Paradoxically, while people crave certainty, they also need variety to stay engaged. Monotony leads to stagnation, whereas new challenges and diverse tasks keep work stimulating. Encouraging employees to take on projects rather than routine tasks introduces healthy unpredictability within a stable environment.&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The third need is significance – Everyone wants to feel important and know their work matters. Employees who believe their contributions are overlooked or meaningless will struggle with motivation. Regularly recognizing and reinforcing the impact of their work helps them feel valued and driven. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The fourth need that people have is love and connection – A sense of belonging is fundamental. People want to feel part of a supportive community where they are cared for and respected. Building a strong team culture and fostering collaboration strengthens workplace relationships, boosting morale and productivity. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Next is growth – Whether they realize it or not, everyone desires growth. Some employees may resist change, but this often stems from fear rather than a lack of ambition. Helping individuals identify and develop their strengths fosters professional and personal development, keeping them engaged and motivated. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The final need is contribution – The desire to make a meaningful impact is deeply ingrained in all of us. People want to know that their work extends beyond themselves and positively influences others. Aligning roles with a greater purpose helps employees feel that their efforts truly matter. &amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="By understanding and addressing these core needs, leaders can create an environment where employees feel secure, valued, challenged, connected, and inspired to grow. The more effectively you support these needs, the more motivated and committed your team will become."&gt;
+        &lt;Style FontSize="16" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.5dZvXt8DT6T" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Even the most talented and well-intentioned teams can encounter challenges that hinder their performance. Understanding how teams struggle is the first step in overcoming them. Click the next button to learn about the five stages teams go through."&gt;
+        &lt;Style FontSize="16" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.5uAE4jmpH3i" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In 1965, psychologist Bruce Tuchman identified that teams evolved through five different stages. Forming, storming, norming, performing, and adjourning. Tuchman didn't just have a flair for rhyming, although that makes his model easier to keep in mind. Navigating these stages effectively can be crucial to fostering a high-performing team. In the first stage, the team is introduced. Everyone is friendly, pleasant, even enthusiastic. This is the forming stage, when most team members are excited to begin the project and get to know the others. Soon, of course, reality kicks in. During the storming phase, challenges emerge. Conflicts arise, and the team members start asserting their ideas. Then, the groups start to align, noticing and appreciating each other's strengths. This is the norming stage, when the group starts to establish more effective ways of working together. Communication improves, and everyone is contributing and working smoothly as a cohesive unit. Eventually, the new team's members are confidently functioning at their best, working independently, yet cohesively to achieve their goals with efficiency. This is the performing stage, when everyone on the team is on the same page and driving ahead toward the final destination. In 1977, Tuchman expanded his model by adding a fifth state, adjourning. This phase is sometimes called mourning, as the team members have grown close and may feel a sense of loss when the project concludes. The point of having a team is to work together. Recognizing how teams stand in the process is key to helping your team evolve into a mature and highly productive team." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.5kVssl5j3Kb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Tasks and projects are carried out for and by people, which makes differing perspectives inevitable. P"&gt;
+        &lt;Style FontSize="16" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="eople hold differing views about what should be done and by whom"&gt;
+        &lt;Style FontFamily="+minor" FontSize="16" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" UnderlineStyle="Normal" ForegroundColor="dk1,00" BackgroundColor="#000000,00" UnderlineColor="#000000,00" Elevation="Normal" Spacing="0" IgnoreKerningTable="False" DisplayCase="AsIs" LanguageId="0" LinkColor="dk1,00"&gt;
+          &lt;Shadow Offset="0x0" Color="#FFFFFF,00" /&gt;
+        &lt;/Style&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=". Thus, the question isn’t, if conflict will arise, but, more importantly, when. A skilled project manager anticipates when tensions will arise and uses emotional intelligence to defuse them effectively. It should be noted that conflict isn’t always negative—it can bring innovative solutions to complex, challenging problems. The key lies in managing them constructively, turning them into opportunities for collaboration and growth.&amp;#xA;"&gt;
+        &lt;Style FontSize="16" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text=" &amp;#xA;"&gt;
+        &lt;Style FontSize="16" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In the next slide, we will explore how conflicts are resolved and what you can do to guide them towards a constructive solution."&gt;
+        &lt;Style FontSize="16" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.5cZxVdNmAZ5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Intro"&gt;
+        &lt;Style FontSize="18" FontIsBold="True" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=": In any successful team, addressing challenges constructively is key, "&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="and everyone on the team plays a part in problem solving. "&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="In this section, we will address considerations that help manage conflicts more efficiently.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="When resolving conflicts, it is important to focus on the problem, not the people. By zeroing in on the problem rather than getting caught up in personalities, you can foster an objective dialogue that generates effective solutions. This approach ensures that the focus remains on addressing challenges rather than assigning blame.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Equally important is the ability to stay grounded in the present. By concentration on the current challenges, we open ourselves up to innovative solutions and create the foundation for a more productive tomorrow.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="When you combine your team’s diverse perspectives, you unlock the collective potential. By leveraging critical thinking, this approach "&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="allows members to "&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="and go beyond what any individual could achieve alone. Collaborative problem solving requires an open mind, and the ability to analyze objectively. &amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.5ZzJexqzt9V" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Is your team individually capable of achieving great things but is yet to unlock their full potential as a group? Managing a team that is under-performing can be both frustrating and challenging. It’s essential that you notice any under-performance and take the necessary initiative to address it. Click next to learn about how to adopt a proactive approach with team building.&amp;#xA;"&gt;
+        &lt;Style FontSize="20" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="20" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Let’s see how we can approach an under-performing team. Bring your team together for a dedicated session lasting a few hours or half a day, and start by discussing team purpose. A team without a clear direction is a team without momentum. To make this discussion interactive, hand out flip chart paper to each team member and encourage them to reflect on five key questions. First, ask, "&gt;
+        &lt;Style FontSize="20" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;quot;Where are we now as a company?&amp;quot; "&gt;
+        &lt;Style FontSize="20" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="This question helps orienting your team by establishing a shared reality, assessing the strengths and weaknesses, and providing a context for decision-making. Second, ask, &amp;quot;What are our goals and visions in the coming years?&amp;quot; This question helps the team reflect on where they want to be, and helps better alignment with broader organizational goals. Next, prompt them to consider, “How are we going to get where we want?&amp;quot; This naturally shifts the conversation toward actionable strategies and collaborative planning. Then, have them reflect on their personal contribution by asking, “How can I make a difference?&amp;quot; This brings clarity to individual roles and ensures each team member understands their impact. Finally, discuss, &amp;quot;What am I going to get?&amp;quot; People are motivated when they see the benefits of their hard work whether it's financial rewards, career growth, or social incentives like team outings or recognition. Answering these five questions together creates alignment, motivation, and a shared sense of responsibility. Once the purpose is established, shift the conversation to performance. Does your team know when they are successful? Are they aware of how their work is measured? Establishing clear and realistic performance metrics at both the individual and team levels is crucial. Some measures may be tangible like productivity, deadlines, or output while others might be more subjective, such as engagement in meetings, problem-solving contributions, or fostering a positive team dynamic. The key is to make expectations transparent and achievable, so that success is both visible and motivating. After the group discussion, take time to meet with each team member individually for about 20 minutes. Use this time to clarify their specific contributions, address any uncertainties about their role, and ensure they feel confident in their ability to contribute to the team's shared objectives. These one-on-one conversations reinforce accountability while offering an opportunity to provide support and guidance. Finally, work collaboratively to establish team values, norms, and behaviors as a framework for sustained high performance. Underperformance often stems from unclear expectations around what is acceptable and unacceptable behavior. At the end of the meeting, discuss the norms and standards that team members expect each other, for example, values such as, “We keep our promises.”, or “We take accountability for our decisions.” To reinforce these commitments, create visible reminders by displaying these core values throughout the workplace. When the team faces challenges, refer back to these guiding principles to realign efforts and maintain momentum. By focusing on individual clarity, collective expectations, and shared accountability, you create the conditions for a truly high-performing team. , collective expectations, and shared accountability, you create the conditions for a truly high-performing team. "&gt;
+        &lt;Style FontSize="20" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.6JVuoZwpNxs" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Original"&gt;
+        &lt;Style FontSize="18" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=": Is your team as high-performing and efficient as you like it to be? Are they cohesively working together or simple a collection of individuals? If you find that cohesion is lacking, then as a manager you need to take a more proactive approach to team building. Select each icon below to learn more.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="1. Create common goals and values within your team. By getting your team together and creating common goals and values, it will bring your team closer together. Get your team together, go off site and create goals that each member of your team can contribute to. You should also come up with some common values that your team should live by on a daily basis and have these displayed prominently in the workplace. An example of these values could be, we keep our promises, or we are always looking to improve our processes. Goals must be measurable whereas the values are more trading characteristics that your team must adopt.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="2. Secondly, you need an on boarding process to integrate new staff into your team. Many organizations still don’t have an on boarding process when the new member of their team start and as a result, they struggled integrate with everyone else in their team. When a new member of staff starts with your company, make sure they’re introduced to all of the team, the responsibilities that they have, and their job role. Then, hold a meeting, highlighting the common goals, and values discussed previously. During this meeting, explain how the new team member can contribute towards these goals and their responsibilities within the team. If these highlighted from the beginning, they feel like a part of the team as soon as they walk through the door, and I mean, they are more likely to buy in your teams’ culture. &amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="And finally, you should set up a social calendar. Many organizations are reactive with social events, that is maybe because motivation is low and they feel like they have to do something about it. A proactive approach to this is my setting up a social calendar at the start of the year. By holding events every month or two, it gives the team something to look forward to during the working week. Whole competitive events, like go Karting or paintballing as before, and after the event, it will provide a bit of competitive banter between your staff. Creating memories, journeys, events will also bring your team closer together as well as lead leading to a lower turnover of staff. You shouldn’t be reactive when it comes to team building, so be proactive and consider the these points.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Main Script: "&gt;
+        &lt;Style FontSize="18" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Whether minor to major, problems can create roadblocks, frustration, and delays. As a result, t"&gt;
+        &lt;Style FontSize="18" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="eams may not perform as efficiently and cohesively as you like them to be. They can sometimes feel like a mere collection of individuals rather than a unified group. If you find that cohesion is lacking, then as a manager you need to take a more proactive approach to team building. Select each icon below to learn more.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="1. Start by establishing common goals and values. Gather your team to collectively develop clear goals and measurable objectives that each member of your team can contribute to. You should also define a set of core values that will guide daily behavior, such as, “we keep our promises”, or, “we continually improve our processes.” This approach not only aligns the team around a shared purpose but also fosters an environment where every member feels committed to the collective success.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Secondly, it is important to establish a robust onboarding process to seamlessly integrate new staff into your team. Many organizations might overlook this step, leaving newcomers struggling to connect with the existing team dynamic. When a new member joins, ensure they are promptly introduced to the entire team and clearly briefed on their responsibilities and role. Taking this approach from day one not only makes the new team member as a part of the team, but also fosters a strong, cohesive team culture right from the beginning.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Develop a social calendar to proactively foster team building. Many organizations skip this step until morale is low, but setting a schedule at the start of the year gives your team regular opportunities to connect and recharge. By planning fun, competitive activities or outing, every month or two, you create moments for friendly shared memories. These activities not only strengthen team bonds but also help reduce staff turnover by building a positive, cohesive work culture. Remember not to react to low morale; be proactive and let regular social events become a cornerstone of your team’s success.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Develop a sense of collective ownership so that every team member feels equally responsible for the team success. To foster this mindset, involve everyone in setting common objectives and strategic goals, ensuring that each person’s ideas and efforts are valued. Regular team check-ins, collaborative problem-solving sessions, and shared celebrations of milestones can reinforce the notion that success is a collective journey. When your team truly owns their work, they become more engaged, resilient, and innovative.&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Finally, share regular, constructive feedback and personalized support. Coaching helps team members identify strengths, overcome challenges, and continuously improve their skills. This helps the team to collaborate effectively, share innovative ideas, and hold themselves accountable to shared goals. Remember that coaching isn’t limited to formal sessions—it’s woven into everyday interactions. Whether through quick check-ins, mentoring relationships, or collaborative problem-solving, ongoing coaching turns challenges into learning opportunities. &amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.62RO8T8EQD2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Maslow’s model is a renowned five-level hierarchy that outlines the stages of human motivation from survival to self-actualization. &amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="At the foundation are physiological needs: essentials like food, water, sleep, and other types of physiological needs. &amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Next up is safety, that is financial stability, health, and a safe work environment.&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Moving upward, the need for belonging emphasizes love, friendships, and a supportive team environment. &amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Then, the need for importance: that is respect, recognition, and opportunities for professional growth. &amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Finally, self-actualization represents the stage where individuals feel challenged and fulfilled.&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Maslow’s hierarchy directly parallels employee engagement at work. If employees remain at survival level, they tend to stay disengaged. As we go up the pyramid, employees experience more engagement and value. You may notice that there is a distinct divide between safety and belonging levels. The needs above this line serve as true motivators, driving employees to excel, and the needs below this line are demotivators, simply preventing dissatisfaction. "&gt;
+        &lt;Style FontSize="14" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.6aSoipUHgqj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Even the most valuable team members can sometimes struggle. They may feel offended or hurt if others find a minor error in their work or performance. It is important to know that team members with high degrees of emotional intelligence create an environment where everyone feels understood and supported. The emotional intelligence refers to the ability to recognize, understand, manage, and influence emotions, both your own and those of others."&gt;
+        &lt;Style FontSize="14" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontSize="14" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Emotional Intelligence is necessary to: "&gt;
+        &lt;Style FontFamily="Open Sans" FontSize="14" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Enhance leadership and team collaboration, promote interpersonal understanding, and encourage personal growth and self-confidence. Emotional Intelligence requires you to: "&gt;
+        &lt;Style FontSize="13.416666" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Increase self-awareness, consider the feelings of others, act accordingly.&amp;#xA;"&gt;
+        &lt;Style FontFamily="Open Sans" FontSize="13.416666" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Open Sans" FontSize="13.416666" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Slide layers: Think before you act; managing your emotional response in challenging situations helps build trust and stronger team relationships. Actively listen, and see things from others’  perspectives. Consider how your words  and actions might affect your colleagues. Reflect on your emotions, strengths and weaknesses This ensures mindful responses and measured action. "&gt;
+        &lt;Style FontFamily="Open Sans" FontSize="13.416666" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Build empathy by p"&gt;
+        &lt;Style FontFamily="Open Sans" FontSize="13.416666" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="aying attention to the emotions and non-verbal cues of those around you. Deliberately observing how your colleagues feel and how the environment influences their interactions."&gt;
+        &lt;Style FontFamily="Open Sans" FontSize="13.416666" FontIsBold="False" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5cLTJWoogcx.6Yxyk9aj1jF" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="(Robert Tannenbaum and Warren Schmidt’s:) Use the slider to explore various levels of delegated freedom, along their advantages and disadvantages in team decision-making. &amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In this approach, you decide and tell the team what to do. The team plays no active part in the decision-making process. This approach is effective when quick, decisive action is needed, but it can limit creativity and team engagement. You decide and explain the reasons for the decision and the benefits of doing so. The leader might value team input and uses it to inform decisions. This balance can improve decision quality while still maintaining efficiency. You present a set of options, inviting the team to discuss and weigh in while you retain the final authority. You suggest a tentative decision and invite feedback to refine it further. This collaborative approach allows the team to influence the final outcome, fostering a sense of ownership while ensuring that the decision remains well-informed. You provide the context and necessary parameters, allowing the team to make decisions within those limits. This approach maximizes team autonomy and can lead to innovative solutions, as long as there is trust and accountability in place. Remember that you are accountable for results at every level."&gt;
+        &lt;Style FontSize="18" ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
